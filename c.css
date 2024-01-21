@@ -475,10 +475,10 @@ h2{
         padding-bottom: 220px;
     }
     .contenerc{
-        height: 60%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
+        height: 42%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .Contact .social p{
         display: none;
@@ -530,7 +530,7 @@ h2{
 
 @media (max-width: 440px) {
     .contenerc{
-        height: 68%;
+        height: 50%;
         padding-bottom: 0;
     }
     .introduce {
